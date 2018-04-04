@@ -1,0 +1,6 @@
+"name": "LudwigVonHauser's Solver bot",
+  "version": "1.0.2",
+  "description": "A decryption bot used to help solve ARG's",
+  "main": "bot.js",
+  "author": "LudwigVonHauser",
+"dependencies": {}
